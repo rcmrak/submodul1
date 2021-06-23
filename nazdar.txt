@@ -1,1 +1,3 @@
 nazdar, tohle je pokus o update submodulu :-)
+update se povedl, zmenil jsem verzi na 1.1.0
+ted provedu jeste jednu zmenu verze na 2.0.0
